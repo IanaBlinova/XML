@@ -1,1 +1,11 @@
-
+<?xml version="1.0"?>
+<bug_report>
+  <id>1</id>
+  <title>the button 'login' disappears when the screen is rotated horizontally</title>
+  <precondition>open the main page</precondition>
+  <steps_to_reproduce>1.rotate the screen horizontally</steps_to_reproduce>
+  <actual_results>disappears 'login' button</actual_results>
+  <expected_results>button stays in place</expected_results>
+  <environments>chrome v.107.0.5304.88</environments>
+  <attachments>link</attachments>
+</bug_report>
